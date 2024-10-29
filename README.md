@@ -1,1 +1,1 @@
-# fish_disease_detection
+# Innovative use of improved yolov8 for underwater fish disease detection
